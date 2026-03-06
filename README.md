@@ -1,6 +1,5 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Krishna%20Prajapati&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=260&section=header&text=Krishna%20Prajapati&fontSize=50&fontColor=00eaff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=65"/>
 <h1 align="center">Hi 👋 I'm Krishna Prajapati</h1>
 
 <h3 align="center">
