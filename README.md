@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="coder.png" width="700"/>
+  <img src="coder.png" width="550"/>
 </p>
 <h1 align="center">Hi 👋 I'm Krishna Prajapati</h1>
 
