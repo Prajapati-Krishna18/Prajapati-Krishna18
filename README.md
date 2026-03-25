@@ -1,5 +1,6 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=260&section=header&text=Krishna%20Prajapati&fontSize=50&fontColor=00eaff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=65"/>
+<p align="center">
+  <img src="coder.png" width="700"/>
+</p>
 <h1 align="center">Hi 👋 I'm Krishna Prajapati</h1>
 
 <h3 align="center">
@@ -13,8 +14,7 @@ Computer Engineering Student | Web Developer | Hackathon Builder
 ---
 
 # 👨‍💻 About Me
-
-✨ Passionate Computer Engineering student who loves building real-world web applications and learning modern technologies.
+<img align="right" src="animation.gif" width="340" style="border-radius: 14px;" />
 
 - 🎓 Computer Engineering Student  
 - 🌱 Currently learning **Full Stack MERN Development**  
@@ -22,8 +22,12 @@ Computer Engineering Student | Web Developer | Hackathon Builder
 - 🚀 Building projects like **SecureCounter AI**  
 - 🏆 Hackathon Participant  
 - 🎯 Looking for **Web Development Internship Opportunities**
+- 🌐 Know more about me → [PORTFOLIO](https://portfolio-liard-beta-93.vercel.app/)  
+- 💻 All my projects → [GITHUB](https://github.com/Prajapati-Krishna18)  
+- 📫 How to reach me → krishna.prajapati.rcg@gmail.com    
+- 🎯 Open to → Internship Opportunities  
 
----
+<br clear="right"/>
 
 # 🚀 Tech Stack
 
