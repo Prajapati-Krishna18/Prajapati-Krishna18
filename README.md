@@ -19,15 +19,30 @@ Computer Engineering Student | Web Developer | Hackathon Builder
 - 🎓 Computer Engineering Student  
 - 🌱 Currently learning **Full Stack MERN Development**  
 - 🤖 Interested in **AI, Computer Vision & Real-Time Systems**  
-- 🚀 Building projects like **SecureCounter AI**  
 - 🏆 Hackathon Participant  
 - 🎯 Looking for **Web Development Internship Opportunities**
-- 🌐 Know more about me → [PORTFOLIO](https://portfolio-liard-beta-93.vercel.app/)  
-- 💻 All my projects → [GITHUB](https://github.com/Prajapati-Krishna18)  
-- 📫 How to reach me → krishna.prajapati.rcg@gmail.com    
+- 🌐 Know more about me → [RESUME](https://drive.google.com/file/d/1bj-FyYSCMrkSFqEQGP1wbbZ-fVoCcBVI/view?usp=drive_link)    
 - 🎯 Open to → Internship Opportunities  
 
 <br clear="right"/>
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Prajapati-Krishna18">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishna-prajapati-45ba713ab/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:krishna.prajapati.rcg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 # 🚀 Tech Stack
 
@@ -72,26 +87,13 @@ Computer Engineering Student | Web Developer | Hackathon Builder
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔹 SecureCounter AI
-AI-based retail theft detection dashboard using hand detection, alerts, and real-time monitoring.
-
-### 🔹 Student Record API
-REST API built using **Node.js and Express** to manage student data.
-
-### 🔹 Website Clone Collection
-Multiple popular website clones built using **HTML, CSS and JavaScript**.
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prajapati-Krishna18&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prajapati-Krishna18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajapati-Krishna18&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajapati-Krishna18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </p>
 
@@ -121,23 +123,7 @@ Multiple popular website clones built using **HTML, CSS and JavaScript**.
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/Prajapati-Krishna18">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/krishna-prajapati-45ba713ab/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:krishna.prajapati.rcg@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 ---
 
 ⭐ **Always learning, building and improving.**
