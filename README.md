@@ -21,7 +21,7 @@ Computer Engineering Student | Web Developer | Hackathon Builder
 - 🤖 Interested in **AI, Computer Vision & Real-Time Systems**  
 - 🏆 Hackathon Participant  
 - 🎯 Looking for **Web Development Internship Opportunities**
-- 🌐 Know more about me → [RESUME](https://drive.google.com/file/d/1L49ssWWNsC3Ba7wito05tWAXgo162wkz/view?usp=sharing)    
+- 🌐 Know more about me → [PORTFOLIO](https://portfolio-krishna-prajapati-93.vercel.app/)    
 - 🎯 Open to → Internship Opportunities  
 
 <br clear="right"/>
